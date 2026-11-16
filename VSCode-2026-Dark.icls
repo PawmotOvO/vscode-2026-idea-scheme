@@ -330,7 +330,7 @@
 
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <!-- support function = #79c0ff -->
@@ -352,7 +352,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="XML_CUSTOM_TAG_NAME">
@@ -377,22 +377,22 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="JS.STATIC_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -407,17 +407,17 @@
     </option>
     <option name="JS.CLASS">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="JS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="JS.FUNCTION_ARROW">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <!-- Dark 2026 regex = #a5d6ff -->
@@ -453,22 +453,22 @@
     </option>
     <option name="TS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="TS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="TS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="TS.STATIC_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="TS.INSTANCE_MEMBER_VARIABLE">
@@ -483,17 +483,17 @@
     </option>
     <option name="TS.CLASS">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="TS.FUNCTION_ARROW">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="TS.REGEXP">
@@ -518,12 +518,12 @@
     </option>
     <option name="TS.INTERFACE">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
@@ -588,7 +588,7 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="9CDCFE" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="CSS.IDENT">
@@ -608,7 +608,7 @@
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="CSS.STRING">
@@ -628,7 +628,7 @@
     </option>
     <option name="CSS.CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="D7BA7D" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="CSS.ID_SELECTOR">
@@ -664,7 +664,7 @@
     <!-- Dark 2026: JSON property key = support.type.property-name.json = #7ee787 -->
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="7EE787" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
@@ -689,12 +689,12 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="C9D1D9" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="FF7B72" />
+        <option name="FOREGROUND" value="FFA657" />
       </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
@@ -719,12 +719,12 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -734,7 +734,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="C9D1D9" />
+        <option name="FOREGROUND" value="FFA657" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
@@ -745,7 +745,7 @@
     </option>
     <option name="PHP_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="C9D1D9" />
+        <option name="FOREGROUND" value="FFA657" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
@@ -755,17 +755,17 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="C9D1D9" />
+        <option name="FOREGROUND" value="FFA657" />
       </value>
     </option>
     <option name="KOTLIN_CONTEXT_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="C9D1D9" />
+        <option name="FOREGROUND" value="FFA657" />
       </value>
     </option>
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="GROOVY_KEYWORD">
@@ -786,7 +786,7 @@
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL">
@@ -881,127 +881,127 @@
     </option>
     <option name="ReSharper.CPP_CLASS_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_STRUCT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_UNION_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_TYPEDEF_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_LOCAL_TYPEDEF_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_TEMPLATE_PARAMETER_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_DEPENDENT_NAME_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_UE4_REFLECTION_SPECIFIER_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.ST_TYPE">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.JSDOC_TYPE_ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.JSDOC_TYPE_ANNOTATION_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.JSDOC_TYPE_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="4EC9B0" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_GLOBAL_FUNCTION_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_OVERLOADED_OPERATOR_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.ST_METHOD">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.JS_FUNCTION_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="D2A8FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_CLASS_FIELD_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="C9D1D9" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.CPP_STRUCT_FIELD_IDENTIFIER">
@@ -1016,27 +1016,27 @@
     </option>
     <option name="ReSharper.CPP_GLOBAL_VARIABLE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.CPP_LOCAL_VARIABLE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.JS_LOCAL_VARIABLE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.JS_BLOCK_LOCAL_VARIABLE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.EVENT_IDENTIFIER">
@@ -1061,12 +1061,12 @@
     </option>
     <option name="ReSharper.CPP_ENUM_ENUMERATOR_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.JS_BLOCK_LOCAL_CONSTANT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.JS_PARAMETER_IDENTIFIER">
@@ -1076,7 +1076,7 @@
     </option>
     <option name="ReSharper.CPP_PREPROCESSOR_MACRO_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
@@ -1096,12 +1096,12 @@
     </option>
     <option name="ReSharper.JSDOC_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
     <option name="ReSharper.LATE_BOUND_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="8B949E" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.ST_HYPERLINK">
@@ -1116,7 +1116,7 @@
     </option>
     <option name="ReSharper.PATH_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="A5D6FF" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ATTRIBUTE">
@@ -1296,7 +1296,7 @@
     <!-- 用户截图: 匿名类参数 → 橘黄色 -->
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="569CD6" />
       </value>
     </option>
   </attributes>

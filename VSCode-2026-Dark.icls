@@ -99,7 +99,12 @@
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
+    <!-- Dark 2026: variable.parameter.function=#c9d1d9 (params white-grey, not orange) -->
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="C9D1D9" />
+      </value>
+    </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <!-- Dark 2026: variable.other=#c9d1d9 for member fields -->
@@ -367,7 +372,7 @@
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -443,7 +448,7 @@
     </option>
     <option name="TS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="TS.GLOBAL_VARIABLE">
@@ -684,7 +689,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
@@ -729,7 +734,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
@@ -740,7 +745,7 @@
     </option>
     <option name="PHP_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
@@ -750,12 +755,12 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="KOTLIN_CONTEXT_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="KOTLIN_TYPE_PARAMETER">
@@ -836,7 +841,7 @@
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="YAML_SCALAR_STRING">
@@ -1066,7 +1071,7 @@
     </option>
     <option name="ReSharper.JS_PARAMETER_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <option name="ReSharper.CPP_PREPROCESSOR_MACRO_IDENTIFIER">
@@ -1265,16 +1270,16 @@
         <option name="FOREGROUND" value="D2A8FF" />
       </value>
     </option>
-    <!-- Dark 2026: variable=#ffa657 (orange!) -->
+    <!-- Dark 2026: variable=#ffa657 (local variables are orange) -->
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="FFA657" />
       </value>
     </option>
-    <!-- Dark 2026: variable=#ffa657 (parameter is also orange) -->
+    <!-- Dark 2026: variable.parameter.function=#c9d1d9 (params are white-grey, DIFFERENT from local vars) -->
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="FFA657" />
+        <option name="FOREGROUND" value="C9D1D9" />
       </value>
     </option>
     <!-- Dark 2026: variable.other=#c9d1d9 (member fields are white-grey) -->

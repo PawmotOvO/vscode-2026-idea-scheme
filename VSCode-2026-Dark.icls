@@ -85,10 +85,11 @@
       </value>
     </option>
 
-    <!-- Dark 2026: keyword=#ff7b72 (overrides dark_plus #569cd6) -->
+    <!-- Dark 2026: keyword.control=#C586C0 purple (dark_plus), keyword=#FF7B72 red (2026-dark)
+         IDEA 无法区分，选紫色 -->
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="FF7B72" />
+        <option name="FOREGROUND" value="C586C0" />
       </value>
     </option>
 
@@ -1173,10 +1174,13 @@
     </option>
 
     <!-- ===== Java-specific syntax keys (VS Code Dark 2026) ===== -->
-    <!-- keyword=#ff7b72 (red!) -->
+    <!-- VS Code Dark 2026 关键字分两种，但 IDEA 只有一个 JAVA_KEYWORD:
+         - keyword.control (if/for/while/return/break/continue/switch/case/try/catch/throw) → #C586C0 紫 (dark_plus 定义)
+         - keyword+storage (new/var/public/class/static) → #FF7B72 红 (2026-dark 定义)
+         IDEA 无法区分，选紫色 (控制流更常见) -->
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="FF7B72" />
+        <option name="FOREGROUND" value="C586C0" />
       </value>
     </option>
     <!-- string=#a5d6ff -->
